@@ -30,3 +30,5 @@ setUsername(String username): Метод, який встановлює знач
 validatedPassword(String password): Приватний метод для валідації паролю користувача.
 validatedBirthday(LocalDate birthday): Приватний метод для валідації дати народження користувача.
 toJsonObject(): Метод, який перетворює об'єкт користувача в об'єкт JsonObject для подальшого використання.
+
+© 2024 Puchka Andrian. Всі права захищені.
